@@ -11,7 +11,7 @@ public class Chapter1Application {
 	}
 
 	public String sayHello(){
-		return "hello springboot !";
+		return "hello springboot master";
 	}
 
 }
