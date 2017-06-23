@@ -9,4 +9,9 @@ public class Chapter1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Chapter1Application.class, args);
 	}
+
+	public String sayHello(){
+		return "hello springboot !";
+	}
+
 }
